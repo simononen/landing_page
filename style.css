@@ -137,3 +137,22 @@ main {
     flex-direction: column;
     flex-basis: 100px;
 }
+
+.section-article {
+    background-color: #E5E7EB;
+}
+
+article {
+    margin: 0 200px;
+    height: 163px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+
+.article-text {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300;
+}
