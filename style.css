@@ -156,3 +156,39 @@ article {
     font-size: 20px;
     font-weight: 300;
 }
+
+.action-call {
+    height: 362;
+    background-color: #ffffff;
+    margin: 0 100px;
+}
+
+.barner {
+    background-color: #3B82F6;
+    border-radius: 5px;
+    padding: 20px 80px;
+    margin: 80px;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+.action-text {
+    font-weight: 200;
+}
+
+.btn-action {
+    border: 1px solid #ffffff;
+    background-color: #3B82F6;
+    color: #ffffff;
+    padding: 5px 15px;
+    border-radius: 4px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #f9faf9; 
+    padding: 20px 0;
+}
